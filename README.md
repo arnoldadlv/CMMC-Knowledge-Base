@@ -8,7 +8,6 @@ An AI-consumable CMMC expert knowledge base built from 27 source files — 10 Di
 
 **On GitHub:** Browse the folders below or start from [_MOC.md](_MOC.md) as the main index.
 
-**With Claude Code:** Install the `cmmc-assessment.skill` to get an AI-powered CMMC assessment companion for evidence review, SSP writing, and assessment preparation.
 
 ## Organization
 
